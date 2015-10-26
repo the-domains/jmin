@@ -1,8 +1,23 @@
+name: JMIN
+favicon: null
 layout_spectrum: 0.8532884
 typography_spectrum: 0.2613828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2242833
-  lightness: 1
+  brandColors: []
   brandStrength: 0.1143056
+  lightness: 1
+  saturation: 0.2242833
   rhythmicContrast: 0.7335582
-name: JMIN
+purpose: []
