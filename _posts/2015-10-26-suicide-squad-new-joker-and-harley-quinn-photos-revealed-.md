@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.ign.com'
   name: IGN
-  favicon: 'http://media.ignimgs.com/media/ign/favicon.ico'
   domain: www.ign.com
+  url: 'http://www.ign.com'
+  favicon: 'http://media.ignimgs.com/media/ign/favicon.ico'
 keywords:
   - leto
   - joker
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'http://www.ign.com/articles/2015/10/26/suicide-squad-new-joker-and-harley-quinn-photos-revealed?utm_source=IGN%20hub%20page&utm_medium=IGN%20(front%20page)&utm_content=2&utm_campaign=Spotlight'
 title: 'Suicide Squad: New Joker and Harley Quinn Photos Revealed - IGN'
-datePublished: '2015-10-26T19:23:46.048Z'
-dateModified: '2015-10-26T19:19:58.273Z'
+datePublished: '2015-10-28T00:31:21.746Z'
+dateModified: '2015-10-28T00:31:17.665Z'
 sourcePath: _posts/2015-10-26-suicide-squad-new-joker-and-harley-quinn-photos-revealed-.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
