@@ -1,7 +1,7 @@
 name: JMIN
 favicon: null
-layout_spectrum: 0.8532884
-typography_spectrum: 0.55646
+layout_spectrum: 0.81717
+typography_spectrum: 0.88157
 title: JapanMinute
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#1e1e1e'
     - '#ffffff'
-    - '#000000'
-    - '#9f9f9f'
-    - '#838383'
-    - '#d0d0d0'
-  brandStrength: 0.3125
-  lightness: 0.9375
-  saturation: 0.375
-  rhythmicContrast: 0.5
+    - '#ff1e22'
+    - '#901e1e'
+    - '#6a6562'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
