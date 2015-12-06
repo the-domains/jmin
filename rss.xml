@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[JapanMinute]]></title>
         <description><![CDATA[JapanMinute]]></description>
-        <link>http://www.japanminute.com/</link>
+        <link>http://japanminute.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 18:42:32 GMT</lastBuildDate>
-        <atom:link href="http://www.japanminute.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 04:33:31 GMT</lastBuildDate>
+        <atom:link href="http://japanminute.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fem Auron]]></title>
             <description><![CDATA[<article><h1>Fem Auron</h1><img src="https://farm1.staticflickr.com/744/23267203646_074c64ac00_b.jpg"></article>]]></description>
-            <link>http://www.japanminute.com/fem-auron/index.html</link>
+            <link>http://japanminute.com/fem-auron/index.html</link>
             <guid isPermaLink="false">2b8076c6-723c-416f-8ad3-bdab15196781</guid>
             <pubDate>Sun, 29 Nov 2015 18:24:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PlayStation Experience 2015: Final Fantasy VII Remake - PSX 2015 Trailer | PS4]]></title>
+            <description><![CDATA[<article><h1>PlayStation Experience 2015: Final Fantasy VII Remake - PSX 2015 Trailer | PS4</h1><p>FINAL FANTASY VII REMAKE - PSX 2015 Trailer They are coming back to Midgar... www.facebook.com/FinalFantasy www.facebook.com/FinalFantasyVII Mako Reactors are draining the life energy of the planet. The Shinra Corporation rules over a corrupt surveillance state. A few prosper, the rest are left to rot in the city slums of Midgar.</p><img src="https://i.ytimg.com/vi/A3sBZ5Nr4hc/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=A3sBZ5Nr4hc</link>
+            <guid isPermaLink="false">d8ff5423-44a1-412e-9d77-9ab35a344825</guid>
+            <pubDate>Sun, 06 Dec 2015 04:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryuko Matoi]]></title>
@@ -22,8 +29,8 @@
         </item>
         <item>
             <title><![CDATA[Haruko]]></title>
-            <description><![CDATA[<article><h1>Haruko</h1><img src="https://farm1.staticflickr.com/615/21858106829_d47816cd75_b.jpg"></article>]]></description>
-            <link>http://www.japanminute.com/haruko/index.html</link>
+            <description><![CDATA[<article><h1>Haruko</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c62045e28d68db1fe2e401076c91c6435b32976.jpg"></article>]]></description>
+            <link>http://japanminute.com/haruko/index.html</link>
             <guid isPermaLink="false">da1262a6-da5e-4e0f-9495-989bbab5535a</guid>
             <pubDate>Wed, 28 Oct 2015 03:09:51 GMT</pubDate>
         </item>
