@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - ps4
   - playstation
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=A3sBZ5Nr4hc'
 title: 'PlayStation Experience 2015: Final Fantasy VII Remake - PSX 2015 Trailer | PS4'
-datePublished: '2015-12-06T04:32:55.300Z'
-dateModified: '2015-12-06T04:22:24.238Z'
+datePublished: '2015-12-06T04:33:24.782Z'
+dateModified: '2015-12-06T04:33:04.171Z'
 sourcePath: _posts/2015-12-06-playstation-experience-2015-final-fantasy-vii-remake-psx.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
