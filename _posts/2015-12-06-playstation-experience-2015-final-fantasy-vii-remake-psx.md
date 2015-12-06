@@ -17,8 +17,8 @@ keywords:
   - vita
   - midgar
 description: 'FINAL FANTASY VII REMAKE - PSX 2015 Trailer They are coming back to Midgar... www.facebook.com/FinalFantasy www.facebook.com/FinalFantasyVII Mako Reactors are draining the life energy of the planet. The Shinra Corporation rules over a corrupt surveillance state. A few prosper, the rest are left to rot in the city slums of Midgar.'
-datePublished: '2015-12-06T04:34:16.141Z'
-dateModified: '2015-12-06T04:34:12.078Z'
+datePublished: '2015-12-06T04:36:27.949Z'
+dateModified: '2015-12-06T04:36:18.826Z'
 author:
   - name: PlayStation
     url: 'https://www.youtube.com/user/PlayStation'
