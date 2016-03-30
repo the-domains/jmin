@@ -4,7 +4,7 @@
         <description><![CDATA[JapanMinute]]></description>
         <link>http://japanminute.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 22:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 22:51:36 GMT</lastBuildDate>
         <atom:link href="http://japanminute.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PlayStation Experience 2015: Final Fantasy VII Remake - PSX 2015 Trailer | PS4]]></title>
@@ -19,13 +19,6 @@
             <link>http://japanminute.com/fem-auron/index.html</link>
             <guid isPermaLink="false">2b8076c6-723c-416f-8ad3-bdab15196781</guid>
             <pubDate>Sun, 29 Nov 2015 18:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kalieena]]></title>
-            <description><![CDATA[<article><h1>Kalieena</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9794937f701fd579891efe8f98a1c8117dddb4d1.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/44625703@N08/25059601143/in/dateposted-public/</link>
-            <guid isPermaLink="false">8deb4564-b695-40a8-b70d-d0083cb8a8d2</guid>
-            <pubDate>Wed, 30 Mar 2016 22:51:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Speed O' Sound Sonic]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.flickr.com/photos/44625703@N08/22521122331/in/dateposted-public/</link>
             <guid isPermaLink="false">1c7581bd-5ea8-4405-9d17-750e37b772a7</guid>
             <pubDate>Sun, 29 Nov 2015 18:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haruko]]></title>
+            <description><![CDATA[<article><h1>Haruko</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c62045e28d68db1fe2e401076c91c6435b32976.jpg"></article>]]></description>
+            <link>http://japanminute.com/haruko/index.html</link>
+            <guid isPermaLink="false">da1262a6-da5e-4e0f-9495-989bbab5535a</guid>
+            <pubDate>Wed, 28 Oct 2015 03:09:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
