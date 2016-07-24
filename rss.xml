@@ -4,7 +4,7 @@
         <description><![CDATA[JapanMinute]]></description>
         <link>http://japanminute.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:38:58 GMT</lastBuildDate>
         <atom:link href="http://japanminute.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PlayStation Experience 2015: Final Fantasy VII Remake - PSX 2015 Trailer | PS4]]></title>
@@ -19,6 +19,20 @@
             <link>http://japanminute.com/fem-auron/index.html</link>
             <guid isPermaLink="false">2b8076c6-723c-416f-8ad3-bdab15196781</guid>
             <pubDate>Sun, 29 Nov 2015 18:24:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/13346210_10154234171573674_6824680989914814459_o.jpg">]]></description>
+            <link>http://japanminute.com/a4050db0-e07c-40ad-8b3f-3adb486a64ee/index.html</link>
+            <guid isPermaLink="false">a4050db0-e07c-40ad-8b3f-3adb486a64ee</guid>
+            <pubDate>Sun, 24 Jul 2016 15:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/13330944_10154238790768674_6099919113531769429_n.jpg?oh=b4691f05af7fb7693c32989e7be405e6&oe=58338DCE">]]></description>
+            <link>http://japanminute.com/718f7678-147b-4847-9735-d8282758cc49/index.html</link>
+            <guid isPermaLink="false">718f7678-147b-4847-9735-d8282758cc49</guid>
+            <pubDate>Sun, 24 Jul 2016 15:38:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Mizore</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d25c867dee1fdb6dc291352441b289881ffba363.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/44625703@N08/25390329680/in/dateposted-public/</link>
             <guid isPermaLink="false">a1d41cd8-168d-4fa7-a47d-414f1b7782a8</guid>
-            <pubDate>Wed, 30 Mar 2016 22:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaito]]></title>
-            <description><![CDATA[<article><h1>Kaito</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/305ea55bafeeafcebecf491cb3add4a7bbd04498.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/44625703@N08/25511535281/in/dateposted-public/</link>
-            <guid isPermaLink="false">54cb7808-db9f-4d9b-b315-22787c5f7284</guid>
-            <pubDate>Wed, 30 Mar 2016 22:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Speed O' Sound Sonic]]></title>
-            <description><![CDATA[<article><h1>Speed O' Sound Sonic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee33fb78067b47b60d11b6f0c04ffcb4ef1014ca.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/44625703@N08/25060655914/in/dateposted-public/</link>
-            <guid isPermaLink="false">b61faf60-ef36-47ad-a4d9-a9fa6c1adf11</guid>
             <pubDate>Wed, 30 Mar 2016 22:51:01 GMT</pubDate>
         </item>
     </channel>
